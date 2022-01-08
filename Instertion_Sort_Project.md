@@ -12,25 +12,26 @@
 5-)[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 
  # Soruların Cevapları
- 1-) 
- 1.adım -> [2,27,16,22,18,6]
- 2.adım -> [2,6,16,22,18,27]
- 3.adım -> [2,6,16,22,18,27] 2.index zaten doğru sırada olduğu için yer değiştirme yapılmadı.
- 4.adım -> [2,6,16,18,22,27]
- 5.adım -> [2,6,16,18,22,27] 4.index zaten doğru sırada olduğu için yer değiştirme yapılmadı.
- 6.adım -> [2,6,16,18,22,27] böylece dizi sıralanmış oldu.
-     
- 2-) (n*(n+1))/2 = (n^2 + n)/2 --> O(n^2)
+ 1-)  
+ 1.adım -> [2,27,16,22,18,6]  
+ 2.adım -> [2,6,16,22,18,27]  
+ 3.adım -> [2,6,16,22,18,27] 2.index zaten doğru sırada olduğu için yer değiştirme yapılmadı.  
+ 4.adım -> [2,6,16,18,22,27]  
+ 5.adım -> [2,6,16,18,22,27] 4.index zaten doğru sırada olduğu için yer değiştirme yapılmadı.  
+ 6.adım -> [2,6,16,18,22,27] böylece dizi sıralanmış oldu.  
  
- 3-) 
- Best case --> 2
- Worst case --> 27
- Average case --> 16,18
-     
- 4-) 18 sayısı Average case kapasımna girer.
+ 2-) (n*(n+1))/2 = (n^2 + n)/2 --> O(n^2)  
  
- 5-) 
- 1.adım --> [2,3,5,8,7,9,4,15,6]
- 2.adım --> [2,3,5,8,7,9,4,15,6] yer değiştirme yapılmadı.
- 3.adım --> [2,3,4,8,7,9,5,15,6]
- 4.adım --> [2,3,4,5,7,9,8,15,6]
+ 3-)  
+ Best case --> 2  
+ Worst case --> 27  
+ Average case --> 16,18  
+ 
+ 4-) 18 sayısı Average case kapasımna girer.  
+ 
+ 5-)  
+ 1.adım --> [2,3,5,8,7,9,4,15,6]  
+ 2.adım --> [2,3,5,8,7,9,4,15,6] yer değiştirme yapılmadı.  
+ 3.adım --> [2,3,4,8,7,9,5,15,6]  
+ 4.adım --> [2,3,4,5,7,9,8,15,6]  
+ 
